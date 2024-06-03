@@ -13,6 +13,7 @@
   <img align="left" src="https://github.com/HeiPavel/HeiPavel/blob/main/images/html.png?raw=true" width="48" margin="10">
   <img align="left" src="https://github.com/HeiPavel/HeiPavel/blob/main/images/css.png?raw=true" width="48" margin="10">
   <img align="left" src="https://github.com/HeiPavel/HeiPavel/blob/main/images/sass.png?raw=true" width="48" margin="10">
+  <img align="left" src="https://github.com/HeiPavel/HeiPavel/blob/main/images/tailwind.png?raw=true" width="48" margin="10">
   <img align="left" src="https://github.com/HeiPavel/HeiPavel/blob/main/images/git.png?raw=true" width="48" margin="10">
   <img align="left" src="https://github.com/HeiPavel/HeiPavel/blob/main/images/github.png?raw=true" width="48" margin="10">
 </p>
